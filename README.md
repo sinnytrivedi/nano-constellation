@@ -1,4 +1,4 @@
-# Nano-Constellation
+# nano-constellation
 
 **Finding particles in an AFM image of a TiO₂ thin film, joining them into a mesh, and mapping how their spacing varies.**
 
