@@ -4,7 +4,7 @@
 
 A hackathon project from the UCD Interdisciplinary Hackathon (December 2025). The TiO₂ film and its AFM scan are from my PhD work.
 
-![Four-panel summary: normalised scan, bright regions, Delaunay mesh, 3D view](https://github.com/ansi111-a/nano-constellation/edit/main/README.md)
+![Four-panel summary: normalised scan, bright regions, Delaunay mesh, 3D view](summary figure.png)
 
 *(a) Normalised AFM scan. (b) Bright regions above a 50% brightness threshold. (c) Particles found with `peak_local_max`, joined by Delaunay triangulation. (d) The same particles shown above the surface in 3D.*
 
